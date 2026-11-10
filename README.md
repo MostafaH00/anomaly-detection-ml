@@ -184,12 +184,9 @@ anomaly-detection-ml/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/anomaly-detection-ml.git
+git clone https://github.com/MostafaH00/anomaly-detection-ml.git
 cd anomaly-detection-ml
 ```
-
-Replace `USERNAME` with the repository owner's GitHub username.
-
 ### 2. Create a virtual environment
 
 ```bash
